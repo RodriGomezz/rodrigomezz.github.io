@@ -64,7 +64,7 @@ h3{
     background: #fa6f05;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    position: fixed;
+    position: absolute;
     left: 46%;
   }
   
@@ -127,9 +127,8 @@ h3{
 }
 
 .imagenes-contacto{
-    margin-left: 23em;
-    margin-top: 2em;
+    display: block;
+    margin: 20px auto;
     height: 50px;
-
-}
+    }
 
